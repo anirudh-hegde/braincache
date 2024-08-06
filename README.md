@@ -3,6 +3,10 @@
 This repository contains a Dockerfile for setting up a Docker container running Nginx to serve the Clumsy Bird game, an open-source clone of the popular Flappy Bird game. The setup uses Debian 12 as the base image.
 This repository contains a Dockerfile for setting up a Docker container running Nginx to serve the Clumsy Bird game, an open-source clone of the popular Flappy Bird game. The setup uses Debian 12 as the base image and deploed the Clumsy Bird game using Nginx on Google Cloud Run. Google Cloud Run allows you to run containerized applications in a fully managed environment, handling scaling, security, and maintenance for you.
 
+## Demo
+
+https://github.com/user-attachments/assets/6906a3fe-83c9-4f19-b29b-73c396a9a407
+
 ## Introduction
 
 This project provides a Dockerized environment for the Clumsy Bird game. The Docker image pulls the source code from the [Clumsy Bird GitHub repository](https://github.com/ellisonleao/clumsy-bird), sets up an Nginx server, and serves the game on port 80.
