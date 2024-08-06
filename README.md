@@ -53,4 +53,4 @@ To build the Docker image, navigate to the directory containing the Dockerfile a
 
 ```sh
 docker pull anirudh06/clumsy-bird-game:latest
-docker build -t clumsy-bird-game .
+docker build -t anirudh06/clumsy-bird-game .
