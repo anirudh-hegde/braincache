@@ -1,7 +1,7 @@
 # BrainCache
 
 BrainCache is implemented using the Dockerfile for setting up a Docker container running Nginx to serve the Clumsy Bird game, an open-source clone of the popular Flappy Bird game. The setup uses Debian 12 as the base image.
-This repository contains a Dockerfile for setting up a Docker container running Nginx to serve the Clumsy Bird game, an open-source clone of the popular Flappy Bird game. The setup uses Debian 12 as the base image and deploed the Clumsy Bird game using Nginx on Google Cloud Run. Google Cloud Run allows you to run containerized applications in a fully managed environment, handling scaling, security, and maintenance for you.
+This repository contains a Dockerfile for setting up a Docker container running Nginx to serve the Clumsy Bird game, an open-source clone of the popular Flappy Bird game. The setup uses Debian 12 as the base image and deployed the Clumsy Bird game using Nginx on Google Cloud Run. Google Cloud Run allows you to run containerized applications in a fully managed environment, handling scaling, security, and maintenance for you.
 
 ## Demo
 
